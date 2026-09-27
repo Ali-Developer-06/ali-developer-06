@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Ali-Developer-06">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=922&text=I%E2%80%99m%20Ali%2C%20AI-Web%20Developer." alt="I’m Ali, Web-AI Developer." />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=922&text=I%E2%80%99m%20Ali%2C%20Web-AI%20Developer." alt="I’m Ali, Web-AI Developer." />
   </a>
 </p>
 
