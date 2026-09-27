@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Ali-Developer-06">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=AI%20%26%20Automation%20Developer%20%7C%20React.js%20%7C%20AI-Powered%20Applications%20%7C%20Building%20Practical%20AI%20Solutions" alt="AI &amp; Automation Developer | React.js | AI-Powered Applications | Building Practical AI Solutions" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Assalamu%20Alaikum!%20I%E2%80%99m%20Qaisar%20AI%20Automation%20Developer." alt="Assalamu Alaikum! I’m Qaisar AI Automation Developer." />
   </a>
 </p>
 
